@@ -7,7 +7,25 @@ I specialize in computational chemistry, including quantum chemistry, molecular 
 <img src="./profile/top-langs.svg" align="right" alt="Top Languages" width="300">
 
 <br>
-<br>
 
-* ✉️ **E-mail:** [ekashirokova@gmail.com](mailto:ekashirokova@gmail.com) <br>
-<img src="https://github.com/ekashi95/ekashi95/blob/ccea005c3d5d38531046829bd085a08686e3f668/icons/orcid_icon.png" width="18" height="18" style="vertical-align: -6px;" alt="ORCID"> [0000-0002-6252-5158](https://orcid.org/0000-0002-6252-5158)
+<div align="left">
+  <!-- Строка E-mail -->
+  <div>
+    <span style="display: inline-block; width: 100px; vertical-align: middle;">
+      <img alt="Static Badge" src="https://img.shields.io/badge/E--mail-blue?style=social&logo=gmail&logoColor=%23EA4335&labelColor=%2355babf&color=%23469200" >
+    </span>
+    <span>
+      &emsp;&nbsp;<a href="mailto:ekashirokova@gmail.com">ekashirokova@gmail.com</a>
+    </span>
+  </div>
+  
+  <!-- Строка ORCID -->
+  <div>
+    <span>
+      <sub><img alt="Static Badge" src="https://img.shields.io/badge/ORCID-blue?style=social&logo=orcid&logoColor=%23A6CE39&labelColor=%2355babf&color=%23469200"></sub>
+    </span>
+    <span">
+      &emsp;<a href="https://orcid.org/0000-0002-6252-5158">0000-0002-6252-5158</a>
+    </span>
+  </div>
+</div>
