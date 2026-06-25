@@ -4,3 +4,5 @@
 
 * ✉️ **E-mail:** [ekashirokova@gmail.com](mailto:ekashirokova@gmail.com)
 * 📝 **ORCID:** [0000-0002-6252-5158](https://orcid.org/0000-0002-6252-5158)
+
+![Stats](./profile/stats.svg)
