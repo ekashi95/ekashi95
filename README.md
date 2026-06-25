@@ -9,7 +9,5 @@ I specialize in computational chemistry, including quantum chemistry, molecular 
 <br>
 <br>
 
-* ✉️ **E-mail:** [ekashirokova@gmail.com](mailto:ekashirokova@gmail.com)
-* 📝 **ORCID:** [0000-0002-6252-5158](https://orcid.org)
-
-<br clear="right">
+* ✉️ **E-mail:** [ekashirokova@gmail.com](mailto:ekashirokova@gmail.com) <br>
+<img src="https://github.com/ekashi95/ekashi95/blob/ccea005c3d5d38531046829bd085a08686e3f668/icons/orcid_icon.png" width="18" height="18" style="vertical-align: -6px;" alt="ORCID"> [0000-0002-6252-5158](https://orcid.org/0000-0002-6252-5158)
