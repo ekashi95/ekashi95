@@ -8,24 +8,6 @@ I specialize in computational chemistry, including quantum chemistry, molecular 
 
 <br>
 
-<div align="left">
-  <!-- Строка E-mail -->
-  <div>
-    <span style="display: inline-block; width: 100px; vertical-align: middle;">
-      <img alt="Static Badge" src="https://img.shields.io/badge/E--mail-blue?style=social&logo=gmail&logoColor=%23EA4335&labelColor=%2355babf&color=%23469200" >
-    </span>
-    <span>
-      &emsp;&nbsp;<a href="mailto:ekashirokova@gmail.com">ekashirokova@gmail.com</a>
-    </span>
-  </div>
-  
-  <!-- Строка ORCID -->
-  <div>
-    <span>
-      <sub><img alt="Static Badge" src="https://img.shields.io/badge/ORCID-blue?style=social&logo=orcid&logoColor=%23A6CE39&labelColor=%2355babf&color=%23469200"></sub>
-    </span>
-    <span">
-      &emsp;<a href="https://orcid.org/0000-0002-6252-5158">0000-0002-6252-5158</a>
-    </span>
-  </div>
-</div>
+<img alt="Static Badge" src="https://img.shields.io/badge/E--mail-blue?style=social&logo=gmail&logoColor=%23EA4335&labelColor=%2355babf&color=%23469200">&emsp;&nbsp;<a href="mailto:ekashirokova@gmail.com">ekashirokova@gmail.com</a><br>
+
+<img alt="Static Badge" src="https://img.shields.io/badge/ORCID-blue?style=social&logo=orcid&logoColor=%23A6CE39&labelColor=%2355babf&color=%23469200">&emsp;<a href="https://orcid.org/0000-0002-6252-5158">0000-0002-6252-5158</a>
