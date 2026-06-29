@@ -8,5 +8,5 @@ I specialize in computational chemistry, including quantum chemistry, molecular 
 
 <br>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/E--mail-blue?style=social&logo=gmail&logoColor=%23EA4335&labelColor=%2355babf&color=%23469200" align="center">&emsp;&nbsp;<a href="mailto:ekashirokova@gmail.com">ekashirokova@gmail.com</a><br>
+<img alt="Static Badge" src="icons/e-mail.svg" align="center" height = "20">&nbsp;&nbsp;ekashirokova@gmail.com</a><br>
 <img alt="Static Badge" src="https://img.shields.io/badge/ORCID-blue?style=social&logo=orcid&logoColor=%23A6CE39&labelColor=%2355babf&color=%23469200" align="center">&emsp;<a href="https://orcid.org/0000-0002-6252-5158">0000-0002-6252-5158</a>
