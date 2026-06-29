@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 70 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-685.205,-711.379)">
+        <g transform="matrix(3.13621,0,0,1,-1685.42,25.3016)">
+            <path d="M778,695.714L776.134,686.286L756.678,686.286C756.279,686.286 755.956,687.3 755.956,688.548L755.956,702.879C755.956,704.128 756.279,705.142 756.678,705.142L776.134,705.142L778,695.714Z" style="fill:rgb(242,242,242);stroke:rgb(177,177,177);stroke-width:0.18px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-43.9703,24.9587)">
+            <g transform="matrix(12.5,0,0,12.5,790.826,700.907)">
+            </g>
+            <text x="753.213px" y="700.907px" style="font-family:'Ubuntu-Regular', 'Ubuntu', sans-serif;font-size:12.5px;fill:rgb(18,18,18);">ORCID</text>
+        </g>
+        <g transform="matrix(0.35636,0,0,0.35636,470.707,478.23)">
+            <g transform="matrix(1.13434,0,0,1.13434,41.3,-68.8361)">
+                <circle cx="520.957" cy="661.293" r="17.631" style="fill:rgb(166,206,57);"/>
+            </g>
+            <g transform="matrix(0.330525,0,0,0.330525,571.531,668.809)">
+                <path d="M175,16L194.36,16C212.791,16 221,29.199 221,41C221,53.888 210.933,66 194.515,66L175,66L175,16ZM182.125,59.478L193.585,59.478C209.848,59.478 213.565,47.056 213.565,40.845C213.565,30.752 207.215,22.211 193.276,22.211L182.28,22.211L182.28,59.478L182.125,59.478Z" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(0.330525,0,0,0.330525,571.531,668.809)">
+                <path d="M164.114,66L156.886,66L156.886,15.4L164.114,15.4L164.114,66ZM165.214,4.714C165.214,7.386 163.014,9.429 160.5,9.429C157.829,9.429 155.786,7.229 155.786,4.714C155.786,2.2 157.986,0 160.5,0C163.171,0 165.214,2.2 165.214,4.714Z" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+</svg>

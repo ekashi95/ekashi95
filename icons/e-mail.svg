@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 70 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-685.205,-686.42)">
+        <g transform="matrix(3.13621,0,0,1,-1685.42,0.34284)">
+            <path d="M778,695.714L776.134,686.286L756.678,686.286C756.279,686.286 755.956,687.3 755.956,688.548L755.956,702.879C755.956,704.128 756.279,705.142 756.678,705.142L776.134,705.142L778,695.714Z" style="fill:rgb(242,242,242);stroke:rgb(177,177,177);stroke-width:0.18px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-43.9703,0)">
+            <g transform="matrix(12.5,0,0,12.5,787.951,700.907)">
+            </g>
+            <text x="753.213px" y="700.907px" style="font-family:'Ubuntu-Regular', 'Ubuntu', sans-serif;font-size:12.5px;fill:rgb(18,18,18);">E-mail</text>
+        </g>
+        <g id="rect3174" transform="matrix(0.240109,0,0,0.240109,688.329,689.334)">
+            <path d="M10,8C6.686,8 4,10.682 4,14C4.074,23.098 4,32.727 4,42C4,45.193 6.484,47.778 9.625,47.969L54.25,48C57.449,47.871 60,45.235 60,42L60,12.969C59.515,10.14 57.059,8 54.094,8C39.404,8.007 24.696,8 10,8L10,8ZM9.906,11.156L54.281,11.156L32.812,32.625C32.421,33.017 31.798,33.017 31.406,32.625L9.906,11.156ZM57,12.688L57,41.781C57,43.515 56.376,44.494 55.125,44.844L40,29.688L57,12.688ZM7.344,12.812L24.062,29.531L8.781,44.812C7.735,44.459 7.371,43.617 7.344,42.469L7.344,12.813L7.344,12.812ZM26.188,31.624L31.407,36.874C31.799,37.266 32.422,37.266 32.813,36.874L37.875,31.812L51.062,45L12.812,45L26.188,31.624Z" style="fill:rgb(85,85,85);fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>
